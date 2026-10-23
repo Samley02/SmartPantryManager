@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/xml_preferences.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/xml/preferences.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/layout_fragment_suggested_recipes.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/layout/fragment_suggested_recipes.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/layout_row_pantry.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/layout/row_pantry.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/layout_row_recipe.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/layout/row_recipe.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/drawable_ic_settings.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/layout_activity_add_edit_ingredient.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/layout/activity_add_edit_ingredient.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/layout_fragment_pantry_list.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/layout/fragment_pantry_list.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/layout_activity_recipe_detail.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/drawable_ic_pantry.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/drawable/ic_pantry.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/drawable_ic_suggested.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/drawable/ic_suggested.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.samley.smartpantrymanager.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.samley.smartpantrymanager.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
