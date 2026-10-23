@@ -1,5 +1,5 @@
 package com.samley.smartpantrymanager.ui;
-
+// Commit 3: pantry and recipe data models
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
