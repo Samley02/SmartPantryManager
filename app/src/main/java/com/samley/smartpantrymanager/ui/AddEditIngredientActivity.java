@@ -1,5 +1,5 @@
 package com.samley.smartpantrymanager.ui;
-
+//commit 7
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.widget.Button;
